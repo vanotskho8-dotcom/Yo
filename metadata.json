@@ -1,0 +1,8 @@
+{
+  "name": "Remix: QTC Brand Showcase",
+  "description": "Create comprehensive Quote-to-Cash brand demonstration sites to showcase end-to-end sales workflows and revenue management processes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
